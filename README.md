@@ -21,14 +21,14 @@
 ▀▀▀▀▀▀▀▀▀▀▀▀▀-     ▀▀▀▀▀▀▀▀▀▀       '╧╧╧╧╧╧╧╧╧`     ╚ ╧╧╧- ▀  ╚═╝     ╚═╝╚══════╝╚══════╝   ╚═╝        ╚═╝    ╚═════╝  ╚═════╝
 ```
 <h1 align="center">👋I'm Henry</h1>
-
-<h3 align="center">A third year student from Mining - Geology University</h3>
+<h3 align="center">Im from Viet Nam</h3>
+<h3 align="center">A third year student in Mining - Geology University</h3>
 
 - 🌱 I’m currently learning **Laravel**
 
-- 📫 How to reach me **lotus.honganhp@gmail.com**
+- 📫 My Email **lotus.honganhp@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1oCLuTyBklbDEQysgnftwJY9jnPeRUKrk/view?usp=drive_link](https://drive.google.com/file/d/1oCLuTyBklbDEQysgnftwJY9jnPeRUKrk/view?usp=drive_link)
+- 📄 This is my resumes [https://drive.google.com/file/d/1oCLuTyBklbDEQysgnftwJY9jnPeRUKrk/view?usp=drive_link](https://drive.google.com/file/d/1oCLuTyBklbDEQysgnftwJY9jnPeRUKrk/view?usp=drive_link)
 
 
 <p align="left">
